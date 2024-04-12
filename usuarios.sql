@@ -41,14 +41,7 @@ CREATE TABLE `roles` (
 --
 
 INSERT INTO `roles` (`id`, `nombre`, `email`, `rol`, `created_at`, `updated_at`) VALUES
-(1, 'Eduardo Ismael sena garza', 'nanaydo123@gmail.com', 'admin', '2024-03-06 20:20:39', '2024-03-20 18:14:47'),
-(2, 'Roberto Ismael Sena Garza', 'vazquezzvictoria@gmail.com', 'usuario', '2024-03-06 20:33:16', '2024-03-06 20:33:16'),
-(3, 'Gerardo Cortez', 'Gerardo_gc@gmail.com', 'usuario', '2024-03-07 02:16:33', '2024-03-07 02:16:33'),
-(4, 'Gerardo Antonio Monsivais Cortez', 'gera_mg@hotmail.com', 'usuario', '2024-03-07 02:37:52', '2024-03-07 02:37:52'),
-(5, 'Jireh Nohemi', 'jireh@gmail.com', 'usuario', '2024-03-22 06:57:17', '2024-03-22 06:57:17'),
-(6, 'Erik Marcelo', 'vazquezzvictoriaa@gmail.com', 'usuario', '2024-03-23 01:55:34', '2024-03-23 01:55:34'),
-(7, 'gera', 'grs.300k@gmail.com', 'usuario', '2024-03-23 03:16:36', '2024-03-23 03:16:36'),
-(8, 'midori', 'mdori@gmail.com', 'usuario', '2024-04-09 02:52:48', '2024-04-09 02:52:48');
+(1, 'Diego Alberto Serna Posada', 'alberto0123@gmail.com', 'admin', '2024-03-06 20:20:39', '2024-03-20 18:14:47'),
 
 -- --------------------------------------------------------
 
